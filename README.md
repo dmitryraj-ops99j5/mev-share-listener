@@ -46,3 +46,5 @@ mev-share-listener \
 - `--socket`: Unix domain socket path to stream JSON events to
 - `--stats-interval`: Seconds between printing throughput metrics (0 to disable)
 - `--raw`: Forward raw SSE json payload without unpacking nested fields
+
+<!-- updated: 2026-09-08 -->
