@@ -47,4 +47,4 @@ mev-share-listener \
 - `--stats-interval`: Seconds between printing throughput metrics (0 to disable)
 - `--raw`: Forward raw SSE json payload without unpacking nested fields
 
-<!-- updated: 2026-09-11 -->
+<!-- updated: 2026-09-12 -->
